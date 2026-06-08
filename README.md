@@ -1,4 +1,9 @@
+
 # 🌦️ Weather App
+
+🔗 Live Demo
+
+https://lakshmii05.github.io/Weather_app/
 
 A simple Weather App built using HTML, CSS, and JavaScript. The application allows users to search for a city and view current weather information in an easy-to-use interface.
 
